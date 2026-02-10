@@ -1,0 +1,17 @@
+.name
+{
+    font-family:'Courier New', Courier, monospace;
+    padding:20px;
+    text-align: center;
+}
+
+img
+{
+    border-color: rgb(247, 30, 30);
+    padding-top:0px;
+    padding-left: 00px;
+    margin-bottom:0px;
+    background-color: aqua;
+    border-radius: 50px;
+    margin-left:200px;
+}
