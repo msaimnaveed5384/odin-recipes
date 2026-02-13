@@ -35,3 +35,8 @@ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ox
     background-color:rgb(61, 38, 9);
     color:rgb(255, 243, 212);
 }
+
+.Home_Link
+{
+    color:rgb(170, 205, 255)
+}
